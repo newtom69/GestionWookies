@@ -1,0 +1,19 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+<<<<<<< HEAD
+/.vs/GestionWookies/v15
+/obj/Debug
+/bin/Debug
+/Properties
+/App.config
+
+
+=======
+/App.config
+
+.vs/
+
+
+>>>>>>> e64730c074943d16f0686cdaa39ded13bfd984c5
